@@ -1,0 +1,26 @@
+# Dependency directories
+node_modules/
+npm-debug.log
+
+# Build files
+build/
+dist/
+*.log
+*.lock
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables file
+.env
+
+# Testing artifacts
+coverage/
+
